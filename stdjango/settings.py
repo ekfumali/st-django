@@ -25,7 +25,7 @@ SECRET_KEY = 'nu)j2i8xr=lu2&3b78+ws9_rl2jmw)k4ysrn&^p$%2hv3ky^s2'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [127.0.0.1, 'herokusilverapp.silvertag.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'herokusilverapp.silvertag.com']
 
 
 # Application definition
